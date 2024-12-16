@@ -1,0 +1,7 @@
+D:\Users\1213-12\Documents\2-ИСП\Дисциплина\Конюхова\pract17\bin\Debug\pract17.exe.config
+D:\Users\1213-12\Documents\2-ИСП\Дисциплина\Конюхова\pract17\bin\Debug\pract17.exe
+D:\Users\1213-12\Documents\2-ИСП\Дисциплина\Конюхова\pract17\bin\Debug\pract17.pdb
+D:\Users\1213-12\Documents\2-ИСП\Дисциплина\Конюхова\pract17\obj\Debug\pract17.csproj.AssemblyReference.cache
+D:\Users\1213-12\Documents\2-ИСП\Дисциплина\Конюхова\pract17\obj\Debug\pract17.csproj.CoreCompileInputs.cache
+D:\Users\1213-12\Documents\2-ИСП\Дисциплина\Конюхова\pract17\obj\Debug\pract17.exe
+D:\Users\1213-12\Documents\2-ИСП\Дисциплина\Конюхова\pract17\obj\Debug\pract17.pdb
